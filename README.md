@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anantharam Pranay Kumar</h1>
 <h3 align="center">
-  Intern at Infosys Springboard & Swecha AI • B V Raju Institute Of Technology (BVRIT) <br>
+  Intern at Infosys Springboard • B V Raju Institute Of Technology (BVRIT) <br>
   Generative AI Enthusiast • Passionate about AI Tools • Future SDE
 </h3>
 
@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-I am **Anantharam Pranay Kumar**, a passionate software developer and Generative AI enthusiast. I'm currently pursuing B.Tech (3rd year, IT) at B V Raju Institute Of Technology (BVRIT).  
+I am **Anantharam Pranay Kumar**, a passionate software developer and ML & AI enthusiast. I'm currently pursuing B.Tech (3rd year, IT) at B V Raju Institute Of Technology (BVRIT).  
 My goal is to use my skills to solve real-world problems and make a positive impact.  
-Currently, I'm an intern at **Infosys Springboard** and **Swecha AI (Vishwam.AI)** in the AI domain, and also serve as the Campus Ambassador for the Internshala Student Partner program at my college.
+Currently, I'm an intern at **Infosys Springboard** in the AI domain, and also serve as the Campus Ambassador for the Internshala Student Partner program at my college.
 
-- 🌱 I’m currently deep diving into **DSA**, exploring various **AI tools**, and learning **Flutter**
+- 🌱 I’m currently deep diving into **DSA**, exploring various **AI tools**, and learning **Flutter** and **ML**.
 - 👯 I’m looking to collaborate on real-world projects
 - 💬 Ask me about AI, Machine Learning, DSA, Full Stack and Android Development
 - 😄 Pronouns: He/Him
@@ -50,7 +50,7 @@ Git, Prompt Engineering, AI Tools, Problem Solving
 
 ## 🏅 Achievements & Badges
 
-- **Internships:** Infosys Springboard (AI), Swecha AI (Vishwam.AI)
+- **Internships:** Infosys Springboard (AI).
 - **Campus Ambassador:** Internshala Student Partner (ISP)
 - **Certifications:** Cisco, Infosys Springboard, Udacity, Udemy, GeeksforGeeks
 
