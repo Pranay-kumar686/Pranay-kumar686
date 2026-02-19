@@ -59,7 +59,7 @@ Git, Prompt Engineering, AI Tools, Problem Solving
 ## 🌐 Coding Profiles
 
 <p align="left">
-  <a href="(https://leetcode.com/u/pranay-6866d/)" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/pranay-6866d" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://www.naukri.com/code360/profile/0fee1843-1946-4bf0-966f-c80a8a38168d" target="_blank"><img src="https://img.shields.io/badge/CodeStudio-30336b?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodeStudio"></a>
   <a href="https://www.geeksforgeeks.org/user/23211ay9bx/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
   <a href="https://www.codechef.com/users/pranay_686" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
